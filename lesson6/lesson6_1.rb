@@ -7,7 +7,6 @@
 # lesser or equals than  ->  <=
 
 # Example 1:
-
 if "word" == "word"
   puts "it is"
 else
@@ -15,7 +14,6 @@ else
 end
 
 # Example 2:
-
 sum    = (2 + 2) * 2
 result = 4 * 2
 
