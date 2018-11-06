@@ -1,7 +1,7 @@
 # Logical operators:
-# and        -> &&
-# or         -> ||
-# not        -> !
+# and -> &&
+# or  -> ||
+# not -> !
 
 element1 = false
 element2 = true
